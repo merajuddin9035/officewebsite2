@@ -1,5 +1,7 @@
 # officewebsite2
 # have build for my client as a freelancer for office use only
+# it is a very responsive website build by using html css and javascript
+#compatible for both mobile as well as pc
 
 ![Capture1](https://user-images.githubusercontent.com/118687409/225780498-4bb2c515-a813-414f-8b51-33ac9d30d42a.PNG)
 ![Capture2](https://user-images.githubusercontent.com/118687409/225780604-25f73f97-8c79-4fba-87fb-d506aacd04f4.PNG)
